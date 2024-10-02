@@ -1,0 +1,21 @@
+body {
+    background-color: #f0e68c;
+}
+
+h1 {
+    color: #ff5733; 
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: black;
+}
+
+.birthday-message {
+    margin-top: 20px;
+}
+
+.img-fluid {
+    margin-top: 40px;
+}
